@@ -1,5 +1,6 @@
 ## Instructions
 
+boop
 Complete each exercise. "order" refers to the general Big O order, like
 O(1), O(n), or O(n log(n)). "complexity" refers to a more specific
 approximation of computations necessary, like `13n + 42` or `12`.
@@ -267,3 +268,5 @@ foo complexity: __________ bar complexity: __________ winner: __________
   <source srcset="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" type="image/gif">
   <img src="https://curriculum-content.s3.amazonaws.com/web-development/bootcamp_prep/rock_dodger.gif" alt="Rock Dodger demo!">
 </picture>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/big-O-for-burritos'>Big O For Burritos</a> on Learn.co and start learning to code for free.</p>
